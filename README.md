@@ -1,1 +1,1 @@
-Install node_modules to run
+To install the required packages, enter "npm i" in git bash
